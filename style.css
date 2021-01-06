@@ -63,11 +63,18 @@ section .third-srction{
 }
 .background{
     background-image: url("image/pic4.png");
-    width: 85%;
-    height: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    width: 63%;
+    height: 210px;
+    margin: 10%;
+    border-radius: 10px;
+    background-size: contain;
+    margin: 250px;
     
+}
+#position{
+    position: left;
+    padding-left: 10%;
+    padding-top: 9%;
+  color: whitesmoke;
+   
 }
